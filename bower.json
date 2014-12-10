@@ -10,9 +10,7 @@
     "gmaps": "~0.4.15",
     "scrollReveal.js": "2.1.0",
     "isotope": "2.1.0",
-    "jquery.imgpreload": "~1.6.2",
-    "bootstrap": "~3.3.1",
-    "imagesloaded": "~3.1.8"
+    "jquery.imgpreload": "~1.6.2"
   },
   "devDependencies": {}
 }

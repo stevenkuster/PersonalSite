@@ -8016,8 +8016,7 @@ body {
 .scroll-label ul li a i {
   margin: 0 5px;
 }
-.scroll-label ul li a:hover,
-.scroll-label ul li a:focus {
+.scroll-label ul li a:hover {
   background: transparent;
   color: #ffffff;
 }

@@ -1,0 +1,16 @@
+{
+  "name": "websitesteven",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "modernizr": "2.8.3",
+    "font-awesome": "4.2.0",
+    "jquery.stellar": "~0.6.2",
+    "moment": "~2.8.3",
+    "gmaps": "~0.4.15",
+    "scrollReveal.js": "2.1.0",
+    "isotope": "2.1.0",
+    "jquery.imgpreload": "~1.6.2"
+  },
+  "devDependencies": {}
+}
